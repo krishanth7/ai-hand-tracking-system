@@ -39,7 +39,7 @@ hand_tracking_system/
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/krishanth7/ai-hand-tracking-system.git
    cd hand_tracking_system
    ```
 
